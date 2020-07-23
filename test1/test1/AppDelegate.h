@@ -18,9 +18,8 @@
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (nonatomic, strong) NSString *masterA1;
-
-@property (nonatomic, strong) NSString *B1;
 @property (nonatomic, strong) NSString *B2;
+@property (nonatomic, strong) NSString *B3;
 
 
 @end
