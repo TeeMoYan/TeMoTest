@@ -18,7 +18,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface HZmacClass : NSObject
-
+@property (nonatomic, strong) NSString *Master_M1;
 @end
 
 NS_ASSUME_NONNULL_END
