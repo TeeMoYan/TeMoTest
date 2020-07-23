@@ -17,6 +17,8 @@
 //@property (nonatomic,strong) <#Class#> *<#object#>;
 @interface AppDelegate ()
 @property (nonatomic, strong) NSString *B2;
+@property (nonatomic, strong) NSString *B3;
+
 @end
 
 @implementation AppDelegate
