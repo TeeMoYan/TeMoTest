@@ -23,7 +23,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //master A1
+    //master NewA1
     self.view.backgroundColor = [UIColor orangeColor];
     UIImageView *headImage = [[UIImageView alloc] init];
     headImage.userInteractionEnabled = YES;
