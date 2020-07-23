@@ -16,7 +16,7 @@
 #import "AppDelegate.h"
 //@property (nonatomic,strong) <#Class#> *<#object#>;
 @interface AppDelegate ()
-
+@property (nonatomic, strong) NSString *B2;
 @end
 
 @implementation AppDelegate
