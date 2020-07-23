@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface HZPsd : NSObject
-
+@property (nonatomic, strong) NSString *m1;
 @end
 
 NS_ASSUME_NONNULL_END
