@@ -18,6 +18,6 @@
 @interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
 
 @property (strong, nonatomic) UIWindow * window;
-
+@property (nonatomic, strong) NSString *Develop_Q1;
 @end
 
