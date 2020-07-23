@@ -22,5 +22,10 @@
 @property (nonatomic, strong) NSString *B3;
 
 
+@property (nonatomic, strong) NSString *masterA1;
+@property (nonatomic, strong) NSString *B2;
+@property (nonatomic, strong) NSString *B3;
+
+
 @end
 
