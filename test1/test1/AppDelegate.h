@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  test1
 //
-//  Created by 闫振 on 2020/6/17.
+//  Created by 闫振 on 2020/6/17.fsfssf
 //
 //  Copyright (C) 2011-2020 ShenZhen iBOXCHAIN Information Technology Co.,Ltd. 
 //                             All rights reserved.
